@@ -1,6 +1,7 @@
 # Proyecto Final | Programación Web
 
 Este es el proyecto Final correspondiente a la materia de Programación Web.
+
 **Eileen Abigail Valdez Vargas** | Matrícula: 2023-0286  
 
 Estas son las capturas de pantalla:
@@ -11,7 +12,7 @@ Estas son las capturas de pantalla:
 
 ---
 
-### **2. . Crear una cuenta de usuario**  
+### **2. Crear una cuenta de usuario**  
 
 ![Crear cuenta](./public/Img/captura2.png)
 
