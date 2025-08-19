@@ -1,7 +1,6 @@
 # Proyecto Final | Programación Web
 
 Este es el proyecto Final correspondiente a la materia de Programación Web.
-
 **Eileen Abigail Valdez Vargas** | Matrícula: 2023-0286  
 
 Estas son las capturas de pantalla:
